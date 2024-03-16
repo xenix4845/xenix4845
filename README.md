@@ -3,8 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=xenix4845&color=red&style=flat&label=Views)
 
-<p align="center">나는야 네트워크 및 서버 엔지니어 <br>
-하지만 아직까진 여러모로 부족한 점이 있다네 그렇지만 멈추지 않고 달려나갈 것이다</p>
+<p align="center">나는야 네트워크 및 서버 엔지니어 <br></p>
 <hr>
 
 <div align="center">
