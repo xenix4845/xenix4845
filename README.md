@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=xenix4845&color=red&style=flat&label=Views)
 
-<p align="center">나는야 네트워크 및 서버 엔지니어 <br></p>
+<p align="center">저는 네트워크 및 서버 엔지니어 입니다.<br></p>
 <hr>
 
 <div align="center">
