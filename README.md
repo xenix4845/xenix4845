@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=Cisco&logoColor=white">
   <img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=Kali Linux&logoColor=white">
   <img src="https://img.shields.io/badge/Synology-B5B5B6?style=flat-square&logo=Synology&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-FFA724">
 </div><hr>
 
 [![xenix4845 GITHUB STATS](https://github-readme-stats.vercel.app/api?username=xenix4845&theme=dark&locale=kr)](https://github.com/xenix4845/github-readme-stats)
