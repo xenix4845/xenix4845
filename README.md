@@ -14,6 +14,12 @@
   <img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=Kali Linux&logoColor=white">
   <img src="https://img.shields.io/badge/Synology-B5B5B6?style=flat-square&logo=Synology&logoColor=white">
   <img src="https://img.shields.io/badge/Claude-FFA724">
-</div><hr>
+</div>
+<hr>
+<div align="center">
+  <h2>AI</h2>
+  <a>Claude, ChatGPT, xAI를 주로 이용합니다!</a>
+</div>
+<hr>
 
 [![xenix4845 GITHUB STATS](https://github-readme-stats.vercel.app/api?username=xenix4845&theme=dark&locale=kr)](https://github.com/xenix4845/github-readme-stats)
