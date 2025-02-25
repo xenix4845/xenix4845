@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/xenix4845/xenix4845/assets/156365851/6ebe42bc-124c-44d2-9eae-2ade69374e4f" width="200"></div><hr>
+<div align="center"><img src="https://github.com/xenix4845/xenix4845/blob/main/maingit2.png?raw=true" width="200"></div><hr>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=1EF718&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EB%B0%98%EA%B0%91%EC%8A%B5%EB%8B%88%EB%8B%A4!" alt="Typing SVG" /></a></h1>
 
 ![](https://komarev.com/ghpvc/?username=xenix4845&color=red&style=flat&label=Views)
